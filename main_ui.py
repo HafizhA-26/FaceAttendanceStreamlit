@@ -16,14 +16,14 @@ def main():
                 - Umur  : 19
                 - TTL   : Bandung, 26 April 2003
                 - Alumni SMKN 1 Cimahi angkatan 45
-                - Mahasiswa Politeknik Negeri Bandung
+                - Mahasiswa **D3-Teknik Informatika** di **Politeknik Negeri Bandung**
             """
     data_profil_gani = """
                     - Nama  : Muhammad Gani Ilham
                     - Umur  : 19
-                    - TTL   : ...., 26 April 2003
+                    - TTL   : Bandar Lampung, 26 April 2003
                     - Alumni SMKN 1 Cimahi angkatan 45
-                    - Bekerja di 
+                    - Bekerja di **PT Dasa Aprilindo Sentosa** sebagai **Team Lead of Developer**
                 """
     image_hafizh = Image.open("images/ui_images/hafizh.jpg")
     image_gani = Image.open("images/ui_images/gani.jpeg")
